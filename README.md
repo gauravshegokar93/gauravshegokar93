@@ -5,13 +5,12 @@
 
 - 🔭 I’m currently working on [Digital Blog Services](https://world-blog-2nux.vercel.app/)
 
-- 🌱 I’m currently learning **Automation Testing At Qspider Instritude ,Pune**
+- 🌱 I’m currently Working At ** Wadhokar Group Of Company As Software Developer,Pune**
 
 - 💬 Ask me about **Software Development**
 
 - 📫 How to reach me **gauravshegokar2312@gmail.com**
 
-- 📄 Know about Me ([https://drive.google.com/file/d/1v0iK7ypxkQX0_-4yQUGroAix4Yr9mYxx/view?usp=sharing](https://drive.google.com/file/d/1kULiSpnOESGTTn5WBKxEsyvtb9lEx1rf/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
