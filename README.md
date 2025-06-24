@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gauravshegokar93&label=Profile%20views&color=0e75b6&style=flat" alt="gauravshegokar93" /> </p>
 
-- 🔭 I’m currently working on [Digital Ebook Selling Website](https://techpluscoding.netlify.app/)
+- 🔭 I’m currently working on [Digital Blog Services](https://world-blog-2nux.vercel.app/)
 
 - 🌱 I’m currently learning **Automation Testing At Qspider Instritude ,Pune**
 
